@@ -1,0 +1,8 @@
+E:\Ganwenqi\Net\TcpServices01\MySqlController\obj\Debug\MySqlController.csprojResolveAssemblyReference.cache
+E:\Ganwenqi\Net\TcpServices01\MySqlController\obj\Debug\MySqlController.csproj.CoreCompileInputs.cache
+E:\Ganwenqi\Net\TcpServices01\MySqlController\bin\Debug\MySqlController.exe.config
+E:\Ganwenqi\Net\TcpServices01\MySqlController\bin\Debug\MySqlController.exe
+E:\Ganwenqi\Net\TcpServices01\MySqlController\bin\Debug\MySqlController.pdb
+E:\Ganwenqi\Net\TcpServices01\MySqlController\bin\Debug\MySql.Data.dll
+E:\Ganwenqi\Net\TcpServices01\MySqlController\obj\Debug\MySqlController.exe
+E:\Ganwenqi\Net\TcpServices01\MySqlController\obj\Debug\MySqlController.pdb

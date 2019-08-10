@@ -1,0 +1,11 @@
+E:\Ganwenqi\Net\TcpServices01\TcpServices01\bin\Debug\TcpServices01.exe
+E:\Ganwenqi\Net\TcpServices01\TcpServices01\bin\Debug\TcpServices01.pdb
+E:\Ganwenqi\Net\TcpServices01\TcpServices01\obj\Debug\TcpServices01.csprojResolveAssemblyReference.cache
+E:\Ganwenqi\Net\TcpServices01\TcpServices01\obj\Debug\TcpServices01.csproj.CoreCompileInputs.cache
+E:\Ganwenqi\Net\TcpServices01\TcpServices01\obj\Debug\TcpServices01.exe
+E:\Ganwenqi\Net\TcpServices01\TcpServices01\obj\Debug\TcpServices01.pdb
+D:\backup\Ganwenqi\Net\TcpServices01\TcpServices01\obj\Debug\TcpServices01.exe
+D:\backup\Ganwenqi\Net\TcpServices01\TcpServices01\obj\Debug\TcpServices01.pdb
+D:\backup\Ganwenqi\Net\TcpServices01\TcpServices01\bin\Debug\TcpServices01.exe
+D:\backup\Ganwenqi\Net\TcpServices01\TcpServices01\bin\Debug\TcpServices01.pdb
+D:\backup\Ganwenqi\Net\TcpServices01\TcpServices01\obj\Debug\TcpServices01.csprojResolveAssemblyReference.cache

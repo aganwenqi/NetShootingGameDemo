@@ -1,0 +1,12 @@
+E:\Ganwenqi\Net\GameService\Common\bin\Debug\Common.dll
+E:\Ganwenqi\Net\GameService\Common\bin\Debug\Common.pdb
+E:\Ganwenqi\Net\GameService\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\Ganwenqi\Net\GameService\Common\obj\Debug\Common.dll
+E:\Ganwenqi\Net\GameService\Common\obj\Debug\Common.pdb
+E:\Ganwenqi\Net\GameService\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\backup\Ganwenqi\Net\GameService\Common\bin\Debug\Common.dll
+D:\backup\Ganwenqi\Net\GameService\Common\bin\Debug\Common.pdb
+D:\backup\Ganwenqi\Net\GameService\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\backup\Ganwenqi\Net\GameService\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\backup\Ganwenqi\Net\GameService\Common\obj\Debug\Common.dll
+D:\backup\Ganwenqi\Net\GameService\Common\obj\Debug\Common.pdb

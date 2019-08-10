@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpServices01", "TcpServices01\TcpServices01.csproj", "{C5DAB4B6-7EB3-4572-B470-E0FF4D824218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqlController", "MySqlController\MySqlController.csproj", "{4C1F7BBF-0624-49C7-8AA1-96A45BC44846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5DAB4B6-7EB3-4572-B470-E0FF4D824218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5DAB4B6-7EB3-4572-B470-E0FF4D824218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5DAB4B6-7EB3-4572-B470-E0FF4D824218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5DAB4B6-7EB3-4572-B470-E0FF4D824218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C1F7BBF-0624-49C7-8AA1-96A45BC44846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1F7BBF-0624-49C7-8AA1-96A45BC44846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1F7BBF-0624-49C7-8AA1-96A45BC44846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1F7BBF-0624-49C7-8AA1-96A45BC44846}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD5443D6-A940-42DD-895B-21868F5EE048}
+	EndGlobalSection
+EndGlobal
